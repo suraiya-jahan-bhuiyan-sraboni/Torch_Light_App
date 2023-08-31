@@ -1,6 +1,5 @@
 # Torchlight App Documentation
-![image](https://github.com/suraiya-jahan-bhuiyan-sraboni/Torch_Light_App/assets/85396098/351b7891-d9ce-44e9-9672-ee38554f2fd7)
-
+![image](https://github.com/suraiya-jahan-bhuiyan-sraboni/Torch_Light_App/assets/85396098/2ad5c9b7-2616-4c4c-b897-024fb7d566b5)
 
 ## Table of Contents
 
